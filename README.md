@@ -1,6 +1,8 @@
 # japanese-style-setting
 UE4_level designing.
 
+This project has been completed within 2 hours.
+
 <a href="https://youtu.be/0Z5b3RzlFLE
 " target="_blank"><img src="https://github.com/Chaitanyassr/japanese-style-setting/blob/master/Screenshot%20(259).png" 
 alt="IMAGE ALT TEXT HERE"  /></a>
